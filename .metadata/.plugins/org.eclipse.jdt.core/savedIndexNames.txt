@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\bigboss01\Downloads\jw_20230411\java\EzProject\.metadata\.plugins\org.eclipse.jdt.core
